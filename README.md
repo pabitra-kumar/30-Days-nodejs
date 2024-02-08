@@ -17,4 +17,4 @@ Day 6: Express Route Handling <br>
 Day 7: Express Middleware <br>
 Day 8: Express Error Handling<br>
 
-![image](https://github.com/psanthosh07/30_days_of_nodejs/assets/58479203/3598e060-9d9b-4dee-b585-d4c9d5646cff)
+![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

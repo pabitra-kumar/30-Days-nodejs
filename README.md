@@ -8,14 +8,15 @@ This repository holds my solutions and implementations for the Scalar 30 Days of
 
 ## 📂 Structure <br>
 
-Day 1: File Reader <br/>
-Day 2: File Writer <br/>
-Day 3: Shell Command execution <br/>
-Day 4: Path Resolver <br/>
-Day 5: File Extension Checker<br/>
-Day 6: Express Route Handling <br/>
-Day 7: Express Middleware <br/>
-Day 8: Express Error Handling<br/>
-Day 9: Node_modules(Q&A)<br/>
+Day 01: File Reader <br/>
+Day 02: File Writer <br/>
+Day 03: Shell Command execution <br/>
+Day 04: Path Resolver <br/>
+Day 05: File Extension Checker<br/>
+Day 06: Express Route Handling <br/>
+Day 07: Express Middleware <br/>
+Day 08: Express Error Handling<br/>
+Day 09: Node_modules(Q&A)<br/>
+Day 10: Express Static Files <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

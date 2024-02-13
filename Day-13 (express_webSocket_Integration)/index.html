@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WebSocket</title>
+  </head>
+  <body>
+    <h1>WebSocket</h1>
+    <p>Open the console to see the messages.</p>
+    <script>
+      const ws = new WebSocket("ws://localhost:3000");
+      ws.onopen = () => {
+        console.log("Connected");
+        ws.send("Hello!");
+      };
+      ws.onmessage = (event) => {
+        console.log("Received:", event.data);
+      };
+    </script>
+  </body>
+</html>

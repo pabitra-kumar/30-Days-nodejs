@@ -22,5 +22,6 @@ Day 11: Express Authentication Middleware <br/>
 Day 12: Express Rate Limiting <br/>
 Day 13: Express WebSocket Integration <br/>
 Day 14: Express Caching Middleware <br/>
+Day 15: Express Logging Middleware <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

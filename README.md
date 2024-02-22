@@ -28,5 +28,6 @@ Day 17: Mongoose Schema and Model <br/>
 Day 18: Express Route with MongoDB Query <br/>
 Day 19: Mongoose Validation <br/>
 Day 20: Express Route with MongoDB Aggregation <br/>
+Day 21: Scaler NodeJS-Project-Building-Challenge <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

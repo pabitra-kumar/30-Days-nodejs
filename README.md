@@ -31,7 +31,6 @@ Day 20: Express Route with MongoDB Aggregation <br/>
 Day 21: Scaler NodeJS-Project-Building-Challenge <br/>
 Day 22: MongoDB CRUD Operation <br/>
 Day 23: Mongoose Population <br/>
-
-<!-- Day 24: Express Route for Product CRUD Operations <br/> -->
+Day 24: Express Route for Product CRUD Operations <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

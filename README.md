@@ -36,5 +36,6 @@ Day 25: Mongoose Indexing <br/>
 Day 26: Aggregation Pipeline for Product Stats <br/>
 Day 27: Authentication Middleware <br/>
 Day 28: WebSocket Integration <br/>
+Day 29: Error Handling Middleware <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

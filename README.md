@@ -32,5 +32,6 @@ Day 21: Scaler NodeJS-Project-Building-Challenge <br/>
 Day 22: MongoDB CRUD Operation <br/>
 Day 23: Mongoose Population <br/>
 Day 24: Express Route for Product CRUD Operations <br/>
+Day 25: Mongoose Indexing <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)

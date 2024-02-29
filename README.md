@@ -34,5 +34,6 @@ Day 23: Mongoose Population <br/>
 Day 24: Express Route for Product CRUD Operations <br/>
 Day 25: Mongoose Indexing <br/>
 Day 26: Aggregation Pipeline for Product Stats <br/>
+Day 27: Authentication Middleware <br/>
 
 ![image](https://github.com/pabitra-kumar/30-Days-nodejs/blob/main/assets/Banner.png)
